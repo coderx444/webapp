@@ -1,0 +1,1 @@
+web: gunicorn advance_meter.wsgi --log-file -
